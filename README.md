@@ -25,7 +25,7 @@ The main data file used by the application is `clean_shark_attacks_data.json`.
 1. Clone the repository
 ```bash
 git clone https://github.com/trubyant/global-shark-attacks.git
-cd shark-attacks-viz-app
+cd global-shark-attacks
 ```
 2. Install dependencies
 ```bash 
