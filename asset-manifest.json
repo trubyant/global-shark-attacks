@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/global-shark-attacks/static/css/main.c5b4070f.chunk.css",
+    "main.js": "/global-shark-attacks/static/js/main.241c1037.chunk.js",
+    "main.js.map": "/global-shark-attacks/static/js/main.241c1037.chunk.js.map",
+    "runtime~main.js": "/global-shark-attacks/static/js/runtime~main.c9f233b8.js",
+    "runtime~main.js.map": "/global-shark-attacks/static/js/runtime~main.c9f233b8.js.map",
+    "static/js/2.4d64e09e.chunk.js": "/global-shark-attacks/static/js/2.4d64e09e.chunk.js",
+    "static/js/2.4d64e09e.chunk.js.map": "/global-shark-attacks/static/js/2.4d64e09e.chunk.js.map",
+    "static/js/3.f265485a.chunk.js": "/global-shark-attacks/static/js/3.f265485a.chunk.js",
+    "static/js/3.f265485a.chunk.js.map": "/global-shark-attacks/static/js/3.f265485a.chunk.js.map",
+    "index.html": "/global-shark-attacks/index.html",
+    "precache-manifest.c621555fcfd9b2ff948c2badec6e9297.js": "/global-shark-attacks/precache-manifest.c621555fcfd9b2ff948c2badec6e9297.js",
+    "service-worker.js": "/global-shark-attacks/service-worker.js",
+    "static/css/main.c5b4070f.chunk.css.map": "/global-shark-attacks/static/css/main.c5b4070f.chunk.css.map"
+  }
+}
