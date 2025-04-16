@@ -83,15 +83,16 @@ export function AboutApp({ isOpen, onClose }) {
            These visualization tools are intended for exploratory purposes, rather than as definitive accounts of global shark attack patterns.
          </p>
        </section>
-       
-       {/* developer contact information */}
+     </div>
+   </div>
+ );
+}
+
+
+       {/* developer contact information 
        <footer>
          <p>
            Developed by Anton Trublin<br />
            contact: atrublin@gmail.com
          </p>
-       </footer>
-     </div>
-   </div>
- );
-}
+       </footer>*/}
