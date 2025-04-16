@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/global-shark-attacks/static/css/main.9af137c9.chunk.css",
-    "main.js": "/global-shark-attacks/static/js/main.241c1037.chunk.js",
+    "main.js": "/global-shark-attacks/static/js/main.43d667f6.chunk.js",
     "runtime~main.js": "/global-shark-attacks/static/js/runtime~main.c9f233b8.js",
     "static/js/2.4d64e09e.chunk.js": "/global-shark-attacks/static/js/2.4d64e09e.chunk.js",
     "static/js/3.f265485a.chunk.js": "/global-shark-attacks/static/js/3.f265485a.chunk.js",
     "index.html": "/global-shark-attacks/index.html",
-    "precache-manifest.0fc46796f1c377436e5e49eb86e5b9cf.js": "/global-shark-attacks/precache-manifest.0fc46796f1c377436e5e49eb86e5b9cf.js",
+    "precache-manifest.44c9195f77972a7dd40abc3a6309184e.js": "/global-shark-attacks/precache-manifest.44c9195f77972a7dd40abc3a6309184e.js",
     "service-worker.js": "/global-shark-attacks/service-worker.js"
   }
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fcf2b72c29fec5c39b9b24ccef80b56e",
+    "revision": "b229ae7ff7e75618a7e4ebcc1b1653d4",
     "url": "/global-shark-attacks/index.html"
   },
   {
-    "revision": "575653011b2c0534d7c6",
+    "revision": "5bdb125458a48835c10f",
     "url": "/global-shark-attacks/static/css/main.9af137c9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/global-shark-attacks/static/js/3.f265485a.chunk.js"
   },
   {
-    "revision": "575653011b2c0534d7c6",
-    "url": "/global-shark-attacks/static/js/main.241c1037.chunk.js"
+    "revision": "5bdb125458a48835c10f",
+    "url": "/global-shark-attacks/static/js/main.43d667f6.chunk.js"
   },
   {
     "revision": "74d68d784b0d297b4daa",
