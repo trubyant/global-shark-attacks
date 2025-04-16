@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b229ae7ff7e75618a7e4ebcc1b1653d4",
+    "revision": "0ea365fd2c4f41e1675bca5d5d6e7915",
     "url": "/global-shark-attacks/index.html"
   },
   {
