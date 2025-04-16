@@ -83,7 +83,7 @@ function App() {
       {/* -----------------------------
           main content area with visualization components,
           only render if tabs are active or have been rendered before
-          ----------------------------- */}
+          -----------------------------  */}
       <main>
         {/* eslint-disable-next-line no-unused-vars */}
         {/* global summary line chart visualization */}
